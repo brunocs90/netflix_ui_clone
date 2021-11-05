@@ -31,6 +31,7 @@ cd netflix-ui-clone
 ```
 
 Abra o arquivo index.html em qualquer navegador
+
 ---
 
 ## 📝 Licenças
