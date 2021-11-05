@@ -22,15 +22,14 @@ Página inicial da **Netflix** desenvolvido durante o Bootcamp **HTML Web Develo
 ---
 
 ## 🔧 Como executar o projeto
-
 ```bash
 # Clone o repositório
 git clone https://github.com/brunocs90/netflix_ui_clone.git
 
 # Entre no diretório
 cd netflix-ui-clone
-
 ```
+
 Abra o arquivo index.html em qualquer navegador
 ---
 
