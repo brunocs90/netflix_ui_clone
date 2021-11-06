@@ -17,7 +17,9 @@ Página inicial da **Netflix** desenvolvido durante o Bootcamp **HTML Web Develo
 
 ## 🖥️ Demonstração
 
-![](xxxxxxxx)
+<p align="center">
+	<img src="img/Example.PNG" alt="Exemplo do clone" title="Netflix: UI Clone">
+</p>
 
 ---
 

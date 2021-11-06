@@ -5,11 +5,98 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/main.css" type="text/css">
     <title>Netflix: UI Clone</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@700&display=swap"
+        rel="stylesheet">
+
+    <!--responsive-->
+    <link rel="stylesheet" href="style/responsive.css">
+
+    <!--own css-->
+    <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+
 </head>
 
 <body>
-    <div>Netflix</div>
+    <header>
+        <div class="container">
+            <h2 class="logo">NETFLIX</h2>
+            <nav>
+                <a href="#">Início</a>
+                <a href="#">Séries</a>
+                <a href="#">Filmes</a>
+                <a href="#">Bombando</a>
+                <a href="#">Minha Lista</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="filme-principal">
+            <div class="container">
+                <img class="logo-movie" alt="Breaking Bad" title="Breaking Bad" src="/img/breaking-bad-logo.webp">
+                <p class="sinopse">Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da
+                    família, mudando o destino de todos.
+                </p>
+                <div class="buttons">
+                    <button role="button" class="button">
+                        <i class="fas fa-play"></i>
+                        Assistir agora
+                    </button>
+                    <button role="button" class="button">
+                        <i class="fas fa-info-circle"></i>
+                        Mais informações
+                    </button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div class="carrosel-movies">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img class="box-movie" src="/img/mini1.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini2.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini3.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini4.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini5.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini6.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini7.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini8.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini9.jpg" alt="">
+            </div>
+            <div class="item">
+                <img class="box-movie" src="/img/mini10.jpg" alt="">
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://kit.fontawesome.com/1fb46fe701.js" crossorigin="anonymous"></script>
+    <script src="js/owl/jquery.min.js"></script>
+    <script src="js/owl/owl.carousel.min.js"></script>
+    <script src="js/owl/setup.js"></script>
 
 </body>
 

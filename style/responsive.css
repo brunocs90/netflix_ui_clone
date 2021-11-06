@@ -1,0 +1,22 @@
+@media screen and (max-width: 700px) {
+  header .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .button {
+    margin-top: 5px;
+    width: 300px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .sinopse {
+    width: 50%;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
