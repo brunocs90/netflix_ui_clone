@@ -39,7 +39,7 @@ Abra o arquivo index.html em qualquer navegador
 
 ---
 
-<h2><a id="licença" class="anchor" aria-hidden="true" href="#licença">📝 Licenças</a></h2>
+<h2><a id="licença" class="anchor" aria-hidden="true" href="#licença">📝 Licença</a></h2>
 
 O projeto está, sob a licença MIT. Para saber mais, acesse o arquivo [LICENSE](https://github.com/brunocs90/netflix_ui_clone/blob/main/LICENSE).
 
