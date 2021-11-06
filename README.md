@@ -19,7 +19,7 @@ Página inicial da **Netflix** desenvolvido durante o Bootcamp **HTML Web Develo
 <h2><a id="tecnologias" class="anchor" aria-hidden="true" href="#tecnologias">🚀 Tecnologias</a></h2>
 <ul>
 <li><a href="https://www.w3schools.com/html/" rel="nofollow">HTML</a></li>
-<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow">CSS</a></li>
+<li><a href="https://sass-lang.com/" rel="nofollow">SASS</a></li>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" rel="nofollow">JavaScript</a></li>
 </ul>
 
